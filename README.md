@@ -1,8 +1,8 @@
 # Horror_Game_UE5_an3
 
 1. Alegerea temei -> Titlu propus pentru joc: "Dread Within"
-
-2. Descrierea succinta a temei:
+2. 
+3. Descrierea succinta a temei:
  
 a.) 1. - Contextul: "Dread Within" este un joc horror first-person in care player-ul se regaseste blocat intr-o casa bantuita dintr-o padure, izolata de lume, fara nicio amintire despre cum a ajuns acolo. Pe masura ce exploreaza, descopera ca nu este singur, iar entitati nemiloase din trecutul intunecat al casei vor cauta, ataca si elimina pe oricine se afla in casa. Povestea graviteaza in jurul supravietuirii, a misterelor ascunse si a fenomenelor paranormale care apar pe tot parcursul jocului.  
  
